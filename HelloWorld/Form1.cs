@@ -24,7 +24,7 @@ namespace HelloWorld
 
         private void button2_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("This class is scary");
+            MessageBox.Show("This class is really scary");
 
         }
     }
