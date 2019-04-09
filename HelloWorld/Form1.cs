@@ -21,5 +21,11 @@ namespace HelloWorld
         {
             MessageBox.Show("Hello World");
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("This button does nothing");
+
+        }
     }
 }
